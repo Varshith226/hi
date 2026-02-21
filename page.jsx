@@ -7,22 +7,22 @@ import { motion } from 'framer-motion';
 const memories = [
     {
         id: 1,
-        imgSrc: "/images/3.jpeg",
+        imgSrc: "./images/3.jpeg",
         caption: "This is literally the CUTEST PIC IN MY GALLERY and IDT WE HAVE A BETTER PIC THAN THIS.",
     },
     {
         id: 2,
-        imgSrc: "/images/9.jpeg",
+        imgSrc: "./images/9.jpeg",
         caption: "You're literally MY ONLY SUNSHINE",
     },
     {
         id: 3,
-        imgSrc: "/images/19.jpeg",
+        imgSrc: "./images/19.jpeg",
         caption: "Just look at you how pretty and cute you are, I am so lucky to have you as my GIRLFRIEND",
     },
     {
         id: 4,
-        imgSrc: "/images/21.jpeg",
+        imgSrc: "./images/21.jpeg",
         caption: "I LOVE KISSING YOU everytime and I'll never get tired of it",
     }
 ];

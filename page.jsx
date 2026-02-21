@@ -4,25 +4,30 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 // Replace these with your actual photos and memories
+import img1 from "/images/3.jpeg";
+import img2 from "/images/9.jpeg";
+import img3 from "/images/19.jpeg";
+import img4 from "/images/21.jpeg";
+
 const memories = [
     {
         id: 1,
-        imgSrc: "./images/3.jpeg",
+        imgSrc: img1,
         caption: "This is literally the CUTEST PIC IN MY GALLERY and IDT WE HAVE A BETTER PIC THAN THIS.",
     },
     {
         id: 2,
-        imgSrc: "./images/9.jpeg",
+        imgSrc: img2,
         caption: "You're literally MY ONLY SUNSHINE",
     },
     {
         id: 3,
-        imgSrc: "./images/19.jpeg",
+        imgSrc: img3,
         caption: "Just look at you how pretty and cute you are, I am so lucky to have you as my GIRLFRIEND",
     },
     {
         id: 4,
-        imgSrc: "./images/21.jpeg",
+        imgSrc: img4,
         caption: "I LOVE KISSING YOU everytime and I'll never get tired of it",
     }
 ];
